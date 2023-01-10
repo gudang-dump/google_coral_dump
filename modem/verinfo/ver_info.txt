@@ -1,0 +1,17 @@
+{
+    "Image_Build_IDs": {
+        "aop": "AOP.HO.1.1-00231-SM8150AAAAANAZO-1", 
+        "apps": "LA.UM.9.1.r1-03700-SMxxx0.0-1", 
+        "boot": "BOOT.XF.3.0-00538-SM8150LZB-1", 
+        "common": "SM8150.LA.2.0.1-00008-STD.PROD-1", 
+        "glue": "GLUE.SM8150_LA.2.0-00042-NOOP_TEST-1", 
+        "modem": "MPSS.HE.1.0.c12-00088-SM8150_GENP_PACK-2.397453.2", 
+        "tz": "TZ.XF.5.2-00172-SM8150AAAAANAZT-1"
+    }, 
+    "Metabuild_Info": {
+        "Meta_Build_ID": "SM8150.LA.2.0.1-00008-STD.PROD-1", 
+        "Product_Flavor": "asic", 
+        "Time_Stamp": "2021-05-07 16:56:21"
+    }, 
+    "Version": "1.0"
+}

@@ -1,0 +1,18 @@
+## coral-user 11 RQ3A.211001.001 7641976 release-keys
+- Manufacturer: google
+- Platform: msmnile
+- Codename: coral
+- Brand: google
+- Flavor: coral-user
+- Release Version: 11
+- Id: RQ3A.211001.001
+- Incremental: 7641976
+- Tags: release-keys
+- CPU Abilist: arm64-v8a,armeabi-v7a,armeabi
+- A/B Device: true
+- Locale: en-US
+- Screen Density: undefined
+- Fingerprint: google/coral/coral:11/RQ3A.211001.001/7641976:user/release-keys
+- OTA version: 
+- Branch: coral-user-11-RQ3A.211001.001-7641976-release-keys-random-text-143952081712223
+- Repo: google_coral_dump
